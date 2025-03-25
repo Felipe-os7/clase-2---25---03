@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:  "Winky Sans", sans-serif;
+    background-color: aqua;
+    margin: 5%;
+    line-height: 1.6;
+
+}
+
+main{
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(28, 123, 54,01);
+}
+
+header{
+    text-align: center;
+    color: rgb(170, 52, 72);
+    padding: 20px 0;
+    border-radius: 8px 8px 0 0;
+    background-image: url('./img/codigo-fuente.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
