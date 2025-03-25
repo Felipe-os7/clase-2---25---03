@@ -78,6 +78,9 @@ header h2{
 }
 
 .nombre_puesto{
-    
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 1%;
+    text-shadow: 0 0 20px rgba(0,0,0,0,5);
 }
 
